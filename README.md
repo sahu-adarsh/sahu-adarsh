@@ -16,18 +16,18 @@
 ---
 
 ### 🚀 Featured Projects
-
-- [**Intervyu**](https://github.com/sahu-adarsh/intervyu) — AI-powered mock interview platform with real-time voice interviews, live coding in Monaco editor, and scored performance reports. Built with Next.js, FastAPI, AWS Bedrock (Claude), Deepgram STT, and Azure TTS. ([intervyu.io](https://intervyu.io))
-- [**Epistlo**](https://github.com/sahu-adarsh/epistlo) — Gmail-like email app with real deliverability. Get your own @epistlo.com address. Built with React, FastAPI, and Supabase, with custom SMTP/IMAP servers. ([epistlo.com](https://epistlo.com))
+- [**Intervyu**](https://github.com/sahu-adarsh/intervyu): AI-powered mock interview platform with real-time voice interviews (~1.7s latency), live coding, and scored performance reports. Built with Next.js, FastAPI, AWS Bedrock, Deepgram, and Azure TTS. ([intervyu.io](https://intervyu.io))
+- [**Epistlo**](https://github.com/sahu-adarsh/epistlo): Full-stack email platform with real @epistlo.com mailboxes, custom SMTP/IMAP servers, and <200ms API latency. Built with React, FastAPI, Supabase, and AWS. ([epistlo.com](https://epistlo.com))
 
 ---
 
-### 📜 Certifications
 
+<!--
+### 📜 Certifications
 ![AWS DEA](https://img.shields.io/badge/AWS_Data_Engineer_Associate-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
 ![AWS MLEA](https://img.shields.io/badge/AWS_ML_Engineer_Associate-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
 ![GCP PDE](https://img.shields.io/badge/GCP_Professional_Data_Engineer-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
 ---
+-->
 
 
