@@ -16,8 +16,8 @@
 ---
 
 ### 🚀 Featured Projects
-- [**Intervyu**](https://github.com/sahu-adarsh/intervyu): AI-powered mock interview platform with real-time voice interviews (~1.7s latency), live coding, and scored performance reports. Built with Next.js, FastAPI, AWS Bedrock, Deepgram, and Azure TTS. ([intervyu.io](https://intervyu.io))
-- [**Epistlo**](https://github.com/sahu-adarsh/epistlo): Full-stack email platform with real @epistlo.com mailboxes, custom SMTP/IMAP servers, and <200ms API latency. Built with React, FastAPI, Supabase, and AWS. ([epistlo.com](https://epistlo.com))
+- [**Intervyu**](https://github.com/sahu-adarsh/intervyu) — AI-powered mock interview platform with real-time voice interviews (~1.7s latency), live coding, and scored performance reports. Built with Next.js, FastAPI, AWS Bedrock, Deepgram, and Azure TTS. ([intervyu.io](https://intervyu.io))
+- [**Epistlo**](https://github.com/sahu-adarsh/epistlo) — Full-stack email platform with real @epistlo.com mailboxes, custom SMTP/IMAP servers, and <200ms API latency. Built with React, FastAPI, Supabase, and AWS. ([epistlo.com](https://epistlo.com))
 
 
 
