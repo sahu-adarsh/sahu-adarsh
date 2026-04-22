@@ -5,7 +5,7 @@
   <strong>SSE @ HCLTech · NITK IT '24 · AWS Data Engineer · AWS ML Engineer</strong> 
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/adarshsahu"><img src="https://img.shields.io/badge/adarshsahu.com-4A90D9?style=flat&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.adarshsahu.com"><img src="https://img.shields.io/badge/adarshsahu.com-4A90D9?style=flat&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/adarshsahu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.github.com/sahu-adarsh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
   <a href="mailto:adarshsahu1077@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
